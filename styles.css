@@ -169,3 +169,12 @@ footer .icons svg {
 .fly {
   width: 100%;
 }
+
+@media (min-width: 768px) {
+  .about h1 {
+    color: red;
+  }
+  .about-text {
+    margin-bottom: 1.5rem;
+  }
+}
